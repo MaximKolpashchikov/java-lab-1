@@ -1,5 +1,3 @@
-package common;
-
 public enum Colour
 {
     RESET("\033[0m"),
